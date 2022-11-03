@@ -1,4 +1,4 @@
-# Siamese-network-with-Triplet-Loss
+# Siamese network with Triplet Loss
 
 A Siamese Network is a type of network architecture used to create and compare feature vectors for each input and contains two or more identical subnetworks. Siamese networks can be used for a variety of purposes, including face recognition, duplicate detection, and anomaly detection. 
 
