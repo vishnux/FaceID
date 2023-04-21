@@ -9,9 +9,9 @@ Once the model is trained, it can be used for one-shot face recognition. This me
 
 ## Requirements
 
-Python 3.x
-TensorFlow 2.x
-NumPy
+* Python 3.x
+* TensorFlow 2.x
+* NumPy
 
 ## Usage
 
