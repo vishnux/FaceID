@@ -15,11 +15,11 @@ Once the model is trained, it can be used for one-shot face recognition. This me
 
 ## Usage
 
-1)Clone this repository: git clone https://github.com/vishnux/Siamese-network-with-Triplet-Loss.git
+1) Clone this repository: git clone https://github.com/vishnux/Siamese-network-with-Triplet-Loss.git
 
-2)Install the required packages
+2) Install the required packages
 
-3)Run the jupyter notebook 
+3) Run the jupyter notebook 
 
 ## Conclusion
 Siamese networks with triplet loss are effective for one-shot face recognition tasks. This implementation can be used as a starting point for building a more robust face recognition system.
