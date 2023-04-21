@@ -1,6 +1,6 @@
 # One-Shot Face Recognition Algorithm using Siamese Networks with Triplet Loss
 
-The Siamese Network with Triplet Loss is a deep learning algorithm which can be used for face recognition, duplicate detection, and anomaly detection etc. In this implementation, we use a Siamese network with three identical subnetworks to estimate the similarity between images.
+The Siamese Network is a deep learning algorithm which can be used for face recognition, duplicate detection, and anomaly detection etc. In this implementation, we use a Siamese network with three identical subnetworks to estimate the similarity between images. Triplet Loss is the loss function selected for this project. 
 
 ## How it Works
 The model is trained using triplets of images. A triplet consists of an anchor image, a positive image (which is similar to the anchor image), and a negative image (which is dissimilar to the anchor image). The goal of the model is to learn to differentiate between positive and negative images while keeping the distance between the anchor and positive images smaller than the distance between the anchor and negative images.
