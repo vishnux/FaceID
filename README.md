@@ -15,8 +15,10 @@ Once the model is trained, it can be used for one-shot face recognition. This me
 
 ## Usage
 
-1)Clone this repository: git clone https://github.com/vishnux/Siamese-network-with-Triplet-Loss.git. 
-2)Install the required packages. 
+1)Clone this repository: git clone https://github.com/vishnux/Siamese-network-with-Triplet-Loss.git
+
+2)Install the required packages
+
 3)Run the jupyter notebook 
 
 ## Conclusion
