@@ -1,4 +1,4 @@
-# One-Shot Classification Algorithm using Siamese Networks with Triplet Loss
+# FaceID: One-Shot Classification Algorithm using Siamese Networks with Triplet Loss
 
 Welcome to the FaceID Application powered by Siamese Networks with Triplet Loss. This deep learning algorithm is designed for face recognition, duplicate detection, and anomaly detection, among other applications. The implementation utilizes a Siamese network with three identical subnetworks to estimate the similarity between images, with Triplet Loss as the selected loss function. 
 
