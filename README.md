@@ -26,11 +26,11 @@ Once the model is trained, it can be used for one-shot face recognition. This me
 
 2) Install the required packages
 
-3) Run the jupyter notebook 
+3) Run the Jupyter notebook 
 
 ## References
 
-Schroff, F., Kalenichenko, D., & Philbin, J. (2015). FaceNet: A Unified Embedding for Face Recognition and Clustering. ArXiv. https://doi.org/10.1109/CVPR.2015.7298682 [FaceNet](https://arxiv.org/abs/1503.03832)
+Schroff, F., Kalenichenko, D., & Philbin, J. (2015). FaceNet: A Unified Embedding for Face Recognition and Clustering. ArXiv. https://doi.org/10.1109/CVPR.2015.7298682 
 
 ## Conclusion
 Siamese networks with triplet loss are effective for one-shot face recognition tasks. This implementation can be used as a starting point for building a more robust face recognition system.
