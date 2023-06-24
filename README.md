@@ -5,8 +5,11 @@ Welcome to the FaceID Application powered by Siamese Networks with Triplet Loss.
 ## Key Features
 
 **More Robust to Class Imbalance**: Giving a few images per class is sufficient for Siamese networks to recognize those images in the future with the aid of one-shot learning.
+
 **Advanced Face Recognition**: Utilize state-of-the-art deep learning techniques for accurate face recognition.
+
 **Siamese Network Architecture**: Benefit from the unique structure of the Siamese network for effective feature extraction and similarity estimation.
+
 **Triplet Loss Optimization**: Train the network using Triplet Loss, an effective loss function for learning discriminative feature embeddings.
 
 ## How it Works
