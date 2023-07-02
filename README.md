@@ -26,11 +26,26 @@ Once the model is trained, it can be used for one-shot face recognition. This me
 
 2) Install the required packages
 
-3) Run the Jupyter notebook 
+3) Run the Jupyter notebook
+
+## Contribute
+
+Contributions to the FaceID project are welcome! If you have any ideas, bug fixes, or enhancements, feel free to submit a pull request.
+
+You can open an [issue](https://github.com/vishnux/FaceID/issues) or [pull request](https://github.com/vishnux/FaceID/pulls).
+
+Here are some ideas on [How to Contribute](https://opensource.guide/how-to-contribute/).
+
+Please adhere to this project's [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
+
+## License
+
+This project is licensed under the MIT License.
 
 ## References
 
 Schroff, F., Kalenichenko, D., & Philbin, J. (2015). FaceNet: A Unified Embedding for Face Recognition and Clustering. ArXiv. https://doi.org/10.1109/CVPR.2015.7298682 
 
 ## Conclusion
+
 Siamese networks with triplet loss are effective for one-shot face recognition tasks. This implementation can be used as a starting point for building a more robust face recognition system.
