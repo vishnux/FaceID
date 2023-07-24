@@ -30,9 +30,7 @@ Once the model is trained, it can be used for one-shot face recognition. This me
 
 ## Contribute
 
-Contributions to the FaceID project are welcome! If you have any ideas, bug fixes, or enhancements, feel free to submit a pull request.
-
-You can open an [issue](https://github.com/vishnux/FaceID/issues) or [pull request](https://github.com/vishnux/FaceID/pulls).
+Contributions to the FaceID project are welcome! If you have any ideas, bug fixes, or enhancements, feel free to submit an [issue](https://github.com/vishnux/FaceID/issues) or [pull request](https://github.com/vishnux/FaceID/pulls).
 
 Here are some ideas on [How to Contribute](https://opensource.guide/how-to-contribute/).
 
